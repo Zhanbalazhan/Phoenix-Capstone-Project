@@ -1,0 +1,8 @@
+stepDefinitions/Initializer.class
+runner/TestRunner.class
+stepDefinitions/RegisterSteps.class
+stepDefinitions/loptopsNoteBooks.class
+stepDefinitions/HomePageSteps.class
+stepDefinitions/LoginSteps.class
+stepDefinitions/RetailSteps.class
+stepDefinitions/DesktopTabSteps.class
