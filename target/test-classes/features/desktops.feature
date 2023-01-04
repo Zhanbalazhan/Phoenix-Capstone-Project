@@ -1,4 +1,4 @@
-@desktop @regression
+@regression
 Feature: Desktops
 
   Background: 
@@ -15,13 +15,14 @@ Feature: Desktops
     And User click add to Cart button
     Then User should see a message1 'Success: You have added HP LP3065 to your shopping cart!'
 
+ 
   Scenario: User add Canon EOS 5D from Desktops tab to the cart
     And User click  ADD TO CART option on ‘Canon EOS 5D’ item
     And User select color from dropdown ‘Red’
     And User select quantity 1 here
     And User click add to Cart buttonn
     Then User should see a message2 'Success: You have added Canon EOS 5D Camera to your shopping cart!'
-
+ @desktop
   Scenario: User add a review to Canon EOS 5D item in Desktops tab
     And User click on Canon EOS 5D item
     And User click on write a review link

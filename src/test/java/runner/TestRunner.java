@@ -22,11 +22,12 @@ import utilities.CucumberReportingConfig;
 	@CucumberOptions(
 	features = "classpath:features",
 	glue = "stepDefinitions",
-	tags = "@regression",
-	//@laptopSmoke
+	tags = "@desktop",
 	//@desktop
+	//@laptop
+	//@desktops
 	//@regression
-	//@tagRetail
+	//@retail
 	dryRun = false,
 	strict = true,
 	monochrome = true,

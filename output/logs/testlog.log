@@ -7200,3 +7200,284 @@
 2022-02-13 20:07:24,023 - logger_File -INFO - User clicked on continue button
 2022-02-13 20:07:24,298 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
 2022-02-13 20:07:24,507 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-03-07 21:18:45,041 - logger_File -INFO - Scenario User verify currency values change Started
+2022-03-07 21:18:53,774 - logger_File -INFO - Home validated successfully
+2022-03-07 21:18:54,031 - logger_File -INFO - User clicked on currency successfuly! 
+2022-03-07 21:18:54,209 - logger_File -INFO - Currency was selected successfully
+2022-03-07 21:18:54,255 - logger_File -INFO - Currency value changed successfuly!
+2022-03-07 21:18:55,139 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-03-07 21:18:55,232 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-03-07 21:18:58,931 - logger_File -INFO - Home validated successfully
+2022-03-07 21:19:02,255 - logger_File -INFO - User clicked on shopping cart successfuly!
+2022-03-07 21:19:02,316 - logger_File -INFO - Cart is emty!
+2022-03-07 21:19:02,888 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-03-07 21:19:02,931 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-03-07 21:19:06,785 - logger_File -INFO - Home validated successfully
+2022-03-07 21:19:06,932 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-07 21:19:07,564 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-07 21:19:14,958 - logger_File -INFO - User can see size of items successfuly!
+2022-03-07 21:19:15,235 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-03-07 21:19:15,459 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-03-07 21:19:21,654 - logger_File -INFO - Home validated successfully
+2022-03-07 21:19:21,905 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-07 21:19:22,753 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-07 21:19:22,899 - logger_File -INFO - Enterd to HPLP by cliking add to cart button successfully!
+2022-03-07 21:19:25,135 - logger_File -INFO - User selected quantity successfuly!
+2022-03-07 21:19:25,574 - logger_File -INFO - Clicked on add to cart Button2 successfuly!
+2022-03-07 21:19:31,013 - logger_File -INFO - Success message showing and taken screenshot successfully!
+2022-03-07 21:19:31,405 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-03-07 21:19:31,438 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-03-07 21:19:36,462 - logger_File -INFO - Home validated successfully
+2022-03-07 21:19:36,546 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-07 21:19:37,312 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-07 21:19:37,391 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-03-07 21:19:46,548 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-03-07 21:19:46,972 - logger_File -INFO - User selected quantity successfuly!
+2022-03-07 21:19:47,090 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-03-07 21:19:50,853 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-03-07 21:19:51,349 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-03-07 21:19:51,424 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-07 21:19:55,988 - logger_File -INFO - Home validated successfully
+2022-03-07 21:19:56,060 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-07 21:19:56,743 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-07 21:20:01,289 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-07 21:20:01,784 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-07 21:20:02,367 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-07 21:20:02,505 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-07 21:20:05,761 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-07 21:20:06,204 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-07 21:20:06,237 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-03-07 21:20:09,543 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:20:09,851 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:20:10,425 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:20:12,300 - logger_File -INFO - User clicked on MacBook  item
+2022-03-07 21:20:12,680 - logger_File -INFO - User clicked add to Cart button this
+2022-03-07 21:20:13,228 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-07 21:20:16,274 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-03-07 21:20:19,515 - logger_File -INFO - User clicked on cart option
+2022-03-07 21:20:22,707 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-03-07 21:20:23,080 - logger_File -INFO - item removed
+2022-03-07 21:20:23,504 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-03-07 21:20:23,544 - logger_File -INFO - Scenario Product Comparison Started
+2022-03-07 21:20:27,541 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:20:27,724 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:20:28,333 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:20:28,434 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-03-07 21:20:28,671 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-03-07 21:20:29,360 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-07 21:20:31,690 - logger_File -INFO - User clicked on Product comparison link
+2022-03-07 21:20:32,123 - logger_File -INFO - User can see Product Comparison Chart
+2022-03-07 21:20:32,507 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-03-07 21:20:32,536 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-03-07 21:20:35,661 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:20:35,930 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:20:36,425 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:20:36,529 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-03-07 21:20:36,678 - logger_File -INFO - Text verified!
+2022-03-07 21:20:37,614 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-03-07 21:20:37,988 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-03-07 21:20:38,026 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-03-07 21:20:41,439 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:20:41,736 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:20:42,209 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:20:43,817 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-03-07 21:20:43,913 - logger_File -INFO - Price verified!
+2022-03-07 21:20:44,628 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-03-07 21:20:45,077 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-03-07 21:20:45,096 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-03-07 21:20:48,888 - logger_File -INFO - Home validated successfully
+2022-03-07 21:20:48,963 - logger_File -INFO - User clicked  on MyAccount
+2022-03-07 21:20:49,301 - logger_File -INFO - User clicked on Login
+2022-03-07 21:20:49,708 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-03-07 21:20:50,114 - logger_File -INFO - User clicked on Login button
+2022-03-07 21:20:50,453 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-03-07 21:20:50,497 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-03-07 21:20:54,342 - logger_File -INFO - Home validated successfully
+2022-03-07 21:20:54,410 - logger_File -INFO - User clicked  on MyAccount
+2022-03-07 21:20:54,852 - logger_File -INFO - User clicked on Login
+2022-03-07 21:20:55,229 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-03-07 21:20:55,643 - logger_File -INFO - User clicked on Login button
+2022-03-07 21:20:56,066 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-03-07 21:20:56,089 - logger_File -INFO - Scenario Edit your account Information Started
+2022-03-07 21:21:00,855 - logger_File -INFO - Home validated successfully
+2022-03-07 21:21:00,924 - logger_File -INFO - User clicked  on MyAccount
+2022-03-07 21:21:01,538 - logger_File -INFO - User clicked on Login
+2022-03-07 21:21:01,930 - logger_File -INFO - User entered username ‘userName’ and password 'password’
+2022-03-07 21:21:02,317 - logger_File -INFO - User clicked on Login button
+2022-03-07 21:21:02,683 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-03-07 21:42:42,037 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-03-07 21:42:48,586 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:42:49,055 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:42:49,717 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:42:51,674 - logger_File -INFO - User clicked on MacBook  item
+2022-03-07 21:42:52,239 - logger_File -INFO - User clicked add to Cart button this
+2022-03-07 21:42:52,904 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-07 21:42:56,026 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-03-07 21:42:59,312 - logger_File -INFO - User clicked on cart option
+2022-03-07 21:43:02,501 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-03-07 21:43:02,847 - logger_File -INFO - item removed
+2022-03-07 21:43:03,234 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-03-07 21:43:03,329 - logger_File -INFO - Scenario Product Comparison Started
+2022-03-07 21:43:07,515 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:43:07,830 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:43:08,552 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:43:08,854 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-03-07 21:43:08,924 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-03-07 21:43:09,904 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-07 21:43:12,320 - logger_File -INFO - User clicked on Product comparison link
+2022-03-07 21:43:13,024 - logger_File -INFO - User can see Product Comparison Chart
+2022-03-07 21:43:13,353 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-03-07 21:43:13,436 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-03-07 21:43:18,429 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:43:18,666 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:43:19,251 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:43:19,342 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-03-07 21:43:19,576 - logger_File -INFO - Text verified!
+2022-03-07 21:43:20,154 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-03-07 21:43:20,501 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-03-07 21:43:20,553 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-03-07 21:43:23,918 - logger_File -INFO - User can see Retail website this
+2022-03-07 21:43:24,254 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-07 21:43:24,948 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-07 21:43:27,092 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-03-07 21:43:27,696 - logger_File -INFO - Price verified!
+2022-03-07 21:43:28,389 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-03-07 21:43:28,763 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-03-08 15:26:48,706 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-03-08 15:26:56,113 - logger_File -INFO - User can see Retail website this
+2022-03-08 15:26:56,409 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-08 15:26:57,029 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-08 15:26:59,264 - logger_File -INFO - User clicked on MacBook  item
+2022-03-08 15:26:59,500 - logger_File -INFO - User clicked add to Cart button this
+2022-03-08 15:27:00,074 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-08 15:27:03,145 - logger_File -INFO - User should see '1 item(s) - $602.00' showed to the cart
+2022-03-08 15:27:06,299 - logger_File -INFO - User clicked on cart option
+2022-03-08 15:27:09,479 - logger_File -INFO - user clicked on red X button to remove the item from cart
+2022-03-08 15:27:09,873 - logger_File -INFO - item removed
+2022-03-08 15:27:10,275 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-03-08 15:27:10,322 - logger_File -INFO - Scenario Product Comparison Started
+2022-03-08 15:27:13,688 - logger_File -INFO - User can see Retail website this
+2022-03-08 15:27:13,847 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-08 15:27:14,393 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-08 15:27:14,492 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2022-03-08 15:27:14,608 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook Air
+2022-03-08 15:27:15,414 - logger_File -INFO - User can see a message ‘Success: You have added MacBook to your shopping cart!’
+2022-03-08 15:27:17,743 - logger_File -INFO - User clicked on Product comparison link
+2022-03-08 15:27:18,154 - logger_File -INFO - User can see Product Comparison Chart
+2022-03-08 15:27:18,415 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-03-08 15:27:18,527 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-03-08 15:27:22,506 - logger_File -INFO - User can see Retail website this
+2022-03-08 15:27:22,785 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-08 15:27:23,310 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-08 15:27:23,399 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2022-03-08 15:27:23,555 - logger_File -INFO - Text verified!
+2022-03-08 15:27:24,254 - logger_File -INFO - User can get a message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2022-03-08 15:27:24,489 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-03-08 15:27:24,542 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-03-08 15:27:28,514 - logger_File -INFO - User can see Retail website this
+2022-03-08 15:27:28,700 - logger_File -INFO - User clicked on Laptop & NoteBook tab
+2022-03-08 15:27:29,277 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2022-03-08 15:27:30,657 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2022-03-08 15:27:31,233 - logger_File -INFO - Price verified!
+2022-03-08 15:27:31,753 - logger_File -INFO - User should see 'dolarSign two thousands' price tag is present on UI
+2022-03-08 15:27:32,072 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-03-08 19:20:42,182 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-08 19:20:49,362 - logger_File -INFO - Home validated successfully
+2022-03-08 19:20:49,482 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-08 19:20:50,076 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-08 19:20:54,395 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-08 19:20:54,534 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-08 19:20:55,310 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-08 19:20:55,408 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-08 19:20:58,650 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-08 19:20:59,036 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-09 19:09:26,171 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-09 19:09:33,809 - logger_File -INFO - Home validated successfully
+2022-03-09 19:09:33,937 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-09 19:09:34,512 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-09 19:09:38,883 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-09 19:09:39,555 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-09 19:09:40,187 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-09 19:09:40,300 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-09 19:09:43,665 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-09 19:09:44,231 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-14 18:40:48,644 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-03-14 18:40:54,771 - logger_File -INFO - Home validated successfully
+2022-03-14 18:40:54,850 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 18:40:55,525 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 18:40:55,615 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-03-14 18:41:05,038 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-03-14 18:41:05,283 - logger_File -INFO - User selected quantity successfuly!
+2022-03-14 18:41:05,348 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-03-14 18:41:08,858 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-03-14 18:41:09,115 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-03-14 18:43:08,565 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-03-14 18:43:08,783 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-03-14 18:43:18,537 - logger_File -INFO - Home validated successfully
+2022-03-14 18:43:19,002 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 18:43:19,309 - logger_File -INFO - Home validated successfully
+2022-03-14 18:43:19,557 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 18:43:19,901 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 18:43:19,974 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-03-14 18:43:20,296 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 18:43:20,440 - logger_File -INFO - User clicked  ADD TO CART option on ‘Canon EOS 5D’ item successfuly! 
+2022-03-14 18:43:29,187 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-03-14 18:43:29,586 - logger_File -INFO - User selected quantity successfuly!
+2022-03-14 18:43:29,623 - logger_File -INFO - User select color from dropdown Red successfuly! 
+2022-03-14 18:43:29,664 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-03-14 18:43:29,926 - logger_File -INFO - User selected quantity successfuly!
+2022-03-14 18:43:30,016 - logger_File -INFO - User click added to Cart buttonn successfuly!
+2022-03-14 18:43:33,508 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-03-14 18:43:33,771 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-03-14 18:43:33,928 - logger_File -INFO - User can see a message ‘Success: You have added Canon EOS 5D to your shopping cart! successfuly!
+2022-03-14 18:43:34,391 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-03-14 18:44:10,704 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-14 18:44:15,372 - logger_File -INFO - Home validated successfully
+2022-03-14 18:44:15,518 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 18:44:16,036 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 18:44:20,167 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-14 18:44:20,453 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-14 18:44:20,925 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-14 18:44:20,998 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-14 18:44:24,223 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-14 18:44:24,491 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-14 18:54:58,654 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-14 18:55:03,948 - logger_File -INFO - Home validated successfully
+2022-03-14 18:55:04,074 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 18:55:04,590 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 18:55:08,689 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-14 18:55:09,199 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-14 18:55:09,615 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-14 18:55:09,708 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-14 18:55:13,028 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-14 18:55:13,468 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-14 18:59:58,125 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-14 19:00:03,568 - logger_File -INFO - Home validated successfully
+2022-03-14 19:00:03,750 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 19:00:04,285 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 19:00:08,484 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-14 19:00:08,775 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-14 19:00:09,575 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-14 19:00:09,697 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-14 19:00:13,006 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-14 19:00:13,378 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-03-14 19:09:42,526 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-03-14 19:09:50,246 - logger_File -INFO - Home validated successfully
+2022-03-14 19:09:50,429 - logger_File -INFO - Clicked on desktop successfuly!
+2022-03-14 19:09:51,198 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-03-14 19:09:56,366 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-03-14 19:09:56,974 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-03-14 19:09:57,609 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-03-14 19:09:57,922 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-03-14 19:10:01,255 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-03-14 19:10:01,739 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-12 15:21:56,376 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-07-12 15:22:05,594 - logger_File -INFO - Home validated successfully
+2022-07-12 15:22:05,661 - logger_File -INFO - Clicked on desktop successfuly!
+2022-07-12 15:22:06,197 - logger_File -INFO - clicked on Show All Desktop successfuly!
+2022-07-12 15:22:10,749 - logger_File -INFO - User clicked on Canon EOS 5D item successfuly!
+2022-07-12 15:22:10,969 - logger_File -INFO - User clicked on write a review link successfuly!
+2022-07-12 15:22:11,603 - logger_File -INFO - User filled the review information with below information successfuly!
+2022-07-12 15:22:11,678 - logger_File -INFO - User clicked on Continue Button successfuly!
+2022-07-12 15:22:14,910 - logger_File -INFO - User can see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval. Succesfuly!
+2022-07-12 15:22:15,202 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED

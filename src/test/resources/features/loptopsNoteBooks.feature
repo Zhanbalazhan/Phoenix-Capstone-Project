@@ -1,4 +1,4 @@
-@laptopSmoke @regression
+@laptop @regression
 Feature: Laptop & NoteBooks
 
   Background: 

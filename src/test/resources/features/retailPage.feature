@@ -1,4 +1,4 @@
-@tagRetail @regression
+@retail @regression
 Feature: Retail Page Feature
 
   Background: 
